@@ -8,7 +8,7 @@
 * Base klasörünün içindeki `config.json` ve `Morgraine.js` dosyasının içindeki bilgileri doldurun.
 * Devamında klasörün içerisinde sağ tıklayıp, bir `powershell` ya da `cmd` penceresi açın.
 * Açılan pencereye ```npm install``` yazarak tüm modülleri kurun.
-* Kurulum bittikten sonra ```npm bot.js``` yazıp, botunuzu başlatın.
+* Kurulum bittikten sonra ```baslat``` bat dosyasını çalıştıırın, iyi forumlar.
 
 # İletişim:
 * [Discord Server](https://discord.gg/juTHxntAp4)
